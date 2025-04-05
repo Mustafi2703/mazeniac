@@ -42,10 +42,10 @@ DFS uses a stack-based approach (utilizing the call stack through recursion) to 
 
 ## Running the Project
 
-# Run the maze generator and solver
+## Run the maze generator and solver
 python maze.py
 
-# Run the tests
+## Run the tests
 python tests.py
 
 Install requirements from requirements.txt.
